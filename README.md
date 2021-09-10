@@ -1,0 +1,2 @@
+# next
+Template Next JS
